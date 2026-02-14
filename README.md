@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohit Ravichandran</h1>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:8A2BE2&height=120&section=header&text=Rohit%20Ravichandran&fontSize=40&fontColor=ffffff"/>
+</p>
 <h3 align="center">Full-Stack Software Developer | Backend & Systems Focused</h3>
 
 <p align="center">
@@ -80,9 +85,10 @@ Python • Sockets • Concurrency
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohit-2200&theme=tokyonight" />
-</p>-->
+</p>
+--- 
+-->
 
----
 
 ## 🎯 Current Focus
 
@@ -91,14 +97,31 @@ Python • Sockets • Concurrency
 - Scalable distributed systems  
 - System design for production environments  
 
+
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📬 Let's Connect</h2>
 
-<p>
-  📧 <a href="mailto:rrk1687@gmail.com">rrk1687@gmail.com</a><br/>
-  🔗 <a href="https://www.linkedin.com/in/r-r-263794266">LinkedIn</a><br/>
-  💻 <a href="https://github.com/rohit-2200">GitHub</a>
+<p align="center">
+  <a href="mailto:rrk1687@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rrk1687%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/r-r-263794266">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Ravichandran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rohit-2200">
+    <img src="https://img.shields.io/badge/GitHub-rohit--2200-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Open to Full-Stack & Backend Software Engineering Opportunities
 </p>
 
 
